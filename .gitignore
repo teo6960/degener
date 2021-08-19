@@ -1,0 +1,12 @@
+.DS_Store
+out
+test
+*/ca.cer
+*/ca.key
+*/serial
+*/server.cer
+*/server.csr
+*/server.key
+degeneres
+vendor/github.com
+vendor/golang.org
